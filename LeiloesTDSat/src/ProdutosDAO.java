@@ -80,4 +80,9 @@ public class ProdutosDAO {
         }
 
     }
+    
+    public ArrayList<ProdutosDTO> listarProdutosVendidos(){
+        ArrayList<ProdutosDTO> listaVendidos = null;
+        return listaVendidos;
+    }
 }
